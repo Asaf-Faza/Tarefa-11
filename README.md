@@ -1,3 +1,7 @@
-tarefa do dia 02/05/2024
+Projeto Landing Page Senac - origin 6
 
-última alteração 14:11
+em grid
+
+Aula do dia 20/05/2024 às 14:43.
+
+última alteração: 20/05
